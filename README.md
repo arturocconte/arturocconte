@@ -4,6 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arturocconte&label=Profile%20views&color=0e75b6&style=flat" alt="arturocconte" /> </p>
 
 - 💻 Data Engineer/Data Scientist at [Terceiro Gestor](https://github.com/TerceiroGestor)
+- 👨‍🎓 MsC. in Physics
 - 🥼 Former Computational Physicist 
 - 🌎 Brazilian from Curitiba
 
